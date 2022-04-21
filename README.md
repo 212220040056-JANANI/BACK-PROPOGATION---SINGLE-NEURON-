@@ -32,8 +32,8 @@ Algorithm:
 PROGRAM:
 
 Program to implement random classification.
-Developed by   : JAYASHREE RAO V
-Register Number :  212220230023
+Developed by   : JANANI D
+Register Number :  212220040056
 
 import numpy as np
 i=1.5    

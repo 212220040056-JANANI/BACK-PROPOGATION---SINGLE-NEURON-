@@ -3,12 +3,13 @@
 # <p align= "center">BACK-PROPOGATION---SINGLE-NEURON</p>
 ### AIM:
 To write a python program to perform Back Propagation with Single Neuron.
-EQUIPMENTS REQUIRED:
+
+## EQUIPMENTS REQUIRED:
 
     Hardware – PCs
     Anaconda – Python 3.7 Installation / Google Colab /Jupiter Notebook
 
-RELATED THEORITICAL CONCEPT:
+## RELATED THEORITICAL CONCEPT:
 Training Dataset:
 
 Training data is an extremely large dataset that is used to teach a machine learning model. Training data is used to teach prediction models that use machine learning algorithms how to extract features that are relevant to specific business goals. For supervised ML models, the training data is labeled. The data used to train unsupervised ML models is not labeled. Training data is also known as a training set, training dataset or learning set.
@@ -28,7 +29,7 @@ Algorithm:
 
     Keep repeating the process until the desired output is achieved.
 
-PROGRAM:
+## PROGRAM:
 
 Program to implement random classification.
 Developed by   : JANANI D
@@ -55,10 +56,10 @@ print(a)
 print(" ")
 print(w)
 
-OUTPUT:
+## OUTPUT:
 
 ![image](https://user-images.githubusercontent.com/86832944/164516169-f148ea9e-9f88-43e1-a29e-677497fceda8.png)
 
-RESULT:
+## RESULT:
 
 Thus the Back Propagation with Single Neuron was successfully implemented using python programming.

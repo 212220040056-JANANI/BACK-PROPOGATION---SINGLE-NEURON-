@@ -29,7 +29,6 @@ Backpropagation (backward propagation) is an important mathematical tool for imp
    6. Keep repeating the process until the desired output is achieved.
 
 ## PROGRAM:
-~~~
 /*
 Program to implement back propagation in single neuron.
 Developed by   : JANANI D
@@ -56,7 +55,6 @@ for j in range(0,100):
 print(a)
 print(" ")
 print(w)
-~~~
 
 ## OUTPUT:
 
